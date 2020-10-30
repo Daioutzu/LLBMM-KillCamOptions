@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillCamOptions", "KillCamOptions.csproj", "{713996B2-23CF-4435-8DDC-024C66D19E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713996B2-23CF-4435-8DDC-024C66D19E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713996B2-23CF-4435-8DDC-024C66D19E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713996B2-23CF-4435-8DDC-024C66D19E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713996B2-23CF-4435-8DDC-024C66D19E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F294225F-0753-4D26-B91D-860C12803365}
+	EndGlobalSection
+EndGlobal
